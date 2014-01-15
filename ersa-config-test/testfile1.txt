@@ -1,1 +1,1 @@
-A test file for testng eras-config-test repo
+A test file for testing eras-config-test repo
